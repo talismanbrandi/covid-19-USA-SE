@@ -1,4 +1,4 @@
-# Socio-economic disparities and COVID-19 in USA  
+# Socio-economic disparities and COVID-19 in the USA  
 ### Ayan Paul, Philipp Englert and Melinda Varga  
 
 This repository contains all the codes necessary for collection, curation and
